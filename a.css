@@ -1,0 +1,75 @@
+#clas{
+    color:firebrick;
+    
+}
+h1{
+    color: aqua;
+
+}
+h2{
+
+    color:firebrick;
+    
+}
+#s{
+    margin-top:14px;
+    margin-right:26px;
+    font-size:20px;
+    width:100px;
+    height:100px;
+    border:1px solid black;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-radius:50%;
+    color:white;
+    background:black;
+    
+    
+}
+#o{
+    background-color: green;
+}
+div{
+    padding-left: 30px;
+}
+.header {
+    display:flex;
+    justify-content:space-between;
+    border-radius: 20px;
+}
+.udemy-logo {
+    margin-top:10px;
+    margin-left:15px;
+}
+.searchbar input {
+    background:#f0f0f0;
+    margin-top:10px;
+    padding:10px 25px;
+    border-radius:20px;
+    width:600px;
+    border-color:blue;
+}
+h5 {
+    margin-top:10px;
+}
+#w{
+    background-color:black;
+    color: #f0f0f0;
+    
+}
+#p{
+    color: #f0f0f0;
+}
+body
+{
+    background-image: url(url(download.jpeg));
+    
+}
+h1{
+    font-style: italic;
+}
+div class{
+    margin-top:40px ;
+    margin-right:40px ;
+}
